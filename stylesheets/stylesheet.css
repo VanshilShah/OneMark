@@ -82,7 +82,7 @@ h3 {
 }
 
 h4 {
-  text-decoration: none;
+  text-decoration: underline;
   text-decoration-style: dotted;
   font-size: 34px;
 }
