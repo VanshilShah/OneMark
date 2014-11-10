@@ -83,7 +83,6 @@ h3 {
 
 h4 {
   font-size: 34px;
-  text-decoration-style: dashed;
 }
 
 h5 {
@@ -103,7 +102,7 @@ footer p {
 }
 
 a {
-  text-decoration: none;
+  text-decoration-style: dashed;
   color: #007edf;
   text-shadow: none;
 
